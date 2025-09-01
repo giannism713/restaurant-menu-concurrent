@@ -1,5 +1,5 @@
-````markdown
-# HY486 Project 1: Concurrent Restaurant Order Processing System
+
+# Concurrent Restaurant Order Processing System
 
 ## Overview
 This project implements a concurrent restaurant order processing system using C++20 and POSIX threads. The system simulates the workflow of a restaurant, where multiple threads (Districts, Agents, and Cooks) interact through shared data structures to process customer orders efficiently and safely in a multi-threaded environment.
